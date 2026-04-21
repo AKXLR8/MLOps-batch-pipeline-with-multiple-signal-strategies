@@ -1,6 +1,6 @@
 # MLOps-batch-pipeline-with-multiple-signal-strategies
 
-
+https://mlops-batch-pipeline-with-multiple-signal-strategies-czicnpty3.streamlit.app/
 ## 📌 Overview
 
 This project implements a **production-style MLOps batch pipeline in Python** designed to simulate a real-world data processing workflow.
