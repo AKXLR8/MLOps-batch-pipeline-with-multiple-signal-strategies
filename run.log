@@ -1,0 +1,79 @@
+
+2026-04-21 13:56:12,554 - INFO - Job started
+2026-04-21 13:56:12,555 - INFO - Config loaded: {'seed': 42, 'window': 5, 'version': 'v1'}
+2026-04-21 13:56:12,596 - INFO - Rows loaded: 10000
+2026-04-21 13:56:12,596 - INFO - Signals generated
+2026-04-21 13:56:12,596 - INFO - Metrics: {'version': 'v1', 'rows_processed': 10000, 'metric': 'signal_rate', 'value': 0.3794, 'latency_ms': 41, 'seed': 42, 'status': 'success'}
+2026-04-21 13:56:12,596 - INFO - Job completed successfully
+2026-04-21 13:59:09,595 - INFO - Job started
+2026-04-21 13:59:09,595 - INFO - Config loaded: {'seed': 42, 'window': 5, 'version': 'v1'}
+2026-04-21 13:59:09,638 - INFO - Rows loaded: 10000
+2026-04-21 13:59:09,645 - INFO - Signals generated
+2026-04-21 13:59:09,645 - INFO - Metrics: {'version': 'v1', 'rows_processed': 10000, 'metric': 'signal_rate', 'value': 0.3794, 'latency_ms': 50, 'seed': 42, 'status': 'success'}
+2026-04-21 13:59:09,646 - INFO - Job completed successfully
+2026-04-21 14:02:25,654 - INFO - Job started
+2026-04-21 14:02:25,654 - INFO - Config loaded: {'seed': 42, 'window': 5, 'version': 'v1', 'signal_type': 'hybrid', 'z_threshold': 0.5}
+2026-04-21 14:02:25,699 - INFO - Rows loaded: 10000
+2026-04-21 14:02:25,699 - INFO - Signals generated
+2026-04-21 14:02:25,699 - INFO - Metrics: {'version': 'v1', 'rows_processed': 10000, 'metric': 'signal_rate', 'value': 0.3794, 'latency_ms': 45, 'seed': 42, 'status': 'success'}
+2026-04-21 14:02:25,699 - INFO - Job completed successfully
+2026-04-21 14:03:11,946 - INFO - Job started
+2026-04-21 14:03:11,946 - INFO - Config loaded: {'seed': 42, 'window': 5, 'version': 'v1', 'signal_type': 'zscore', 'z_threshold': 0.5}
+2026-04-21 14:03:12,014 - INFO - Rows loaded: 10000
+2026-04-21 14:03:12,016 - INFO - Signals generated
+2026-04-21 14:03:12,016 - INFO - Metrics: {'version': 'v1', 'rows_processed': 10000, 'metric': 'signal_rate', 'value': 0.3794, 'latency_ms': 70, 'seed': 42, 'status': 'success'}
+2026-04-21 14:03:12,016 - INFO - Job completed successfully
+2026-04-21 14:04:44,611 - INFO - Job started
+2026-04-21 14:04:44,611 - INFO - Config loaded: {'seed': 42, 'window': 5, 'version': 'v1', 'signal_type': 'basic', 'z_threshold': 0.5}
+2026-04-21 14:04:44,656 - INFO - Rows loaded: 10000
+2026-04-21 14:04:44,656 - INFO - Signals generated
+2026-04-21 14:04:44,656 - INFO - Metrics: {'version': 'v1', 'rows_processed': 10000, 'metric': 'signal_rate', 'value': 0.4989, 'latency_ms': 45, 'seed': 42, 'status': 'success'}
+2026-04-21 14:04:44,656 - INFO - Job completed successfully
+2026-04-21 14:05:04,551 - INFO - Job started
+2026-04-21 14:05:04,551 - INFO - Config loaded: {'seed': 42, 'window': 5, 'version': 'v1', 'signal_type': 'zscore', 'z_threshold': 0.5}
+2026-04-21 14:05:04,594 - INFO - Rows loaded: 10000
+2026-04-21 14:05:04,611 - INFO - Signals generated
+2026-04-21 14:05:04,611 - INFO - Metrics: {'version': 'v1', 'rows_processed': 10000, 'metric': 'signal_rate', 'value': 0.3794, 'latency_ms': 59, 'seed': 42, 'status': 'success'}
+2026-04-21 14:05:04,611 - INFO - Job completed successfully
+2026-04-21 14:05:16,354 - INFO - Job started
+2026-04-21 14:05:16,370 - INFO - Config loaded: {'seed': 42, 'window': 5, 'version': 'v1', 'signal_type': 'hybrid', 'z_threshold': 0.5}
+2026-04-21 14:05:16,420 - INFO - Rows loaded: 10000
+2026-04-21 14:05:16,423 - INFO - Signals generated
+2026-04-21 14:05:16,423 - INFO - Metrics: {'version': 'v1', 'rows_processed': 10000, 'metric': 'signal_rate', 'value': 0.3794, 'latency_ms': 69, 'seed': 42, 'status': 'success'}
+2026-04-21 14:05:16,424 - INFO - Job completed successfully
+2026-04-21 14:09:58,426 - INFO - Job started
+2026-04-21 14:09:58,439 - INFO - Config loaded: {'seed': 42, 'window': 5, 'version': 'v1', 'signal_type': 'basic', 'z_threshold': 0.5}
+2026-04-21 14:09:58,495 - INFO - Rows loaded: 10000
+2026-04-21 14:09:58,498 - INFO - Signals generated
+2026-04-21 14:09:58,498 - INFO - Metrics: {'version': 'v1', 'rows_processed': 10000, 'metric': 'signal_rate', 'value': 0.4989, 'latency_ms': 72, 'seed': 42, 'status': 'success'}
+2026-04-21 14:09:58,498 - INFO - Job completed successfully
+2026-04-21 14:23:31,852 - INFO - Job started
+2026-04-21 14:23:31,852 - INFO - Config loaded: {'seed': 42, 'window': 5, 'version': 'v1', 'signal_type': 'basic', 'z_threshold': 0.5}
+2026-04-21 14:23:31,909 - INFO - Rows loaded: 10000
+2026-04-21 14:23:31,913 - INFO - Signals generated
+2026-04-21 14:23:31,913 - INFO - Metrics: {'version': 'v1', 'rows_processed': 9996, 'metric': 'signal_rate', 'value': 0.4991, 'latency_ms': 60, 'seed': 42, 'status': 'success'}
+2026-04-21 14:23:31,914 - INFO - Job completed successfully
+2026-04-21 14:24:07,935 - INFO - Job started
+2026-04-21 14:24:07,955 - INFO - Config loaded: {'seed': 42, 'window': 5, 'version': 'v1', 'signal_type': 'zscore', 'z_threshold': 0.5}
+2026-04-21 14:24:08,007 - INFO - Rows loaded: 10000
+2026-04-21 14:24:08,007 - INFO - Signals generated
+2026-04-21 14:24:08,007 - INFO - Metrics: {'version': 'v1', 'rows_processed': 9996, 'metric': 'signal_rate', 'value': 0.3796, 'latency_ms': 72, 'seed': 42, 'status': 'success'}
+2026-04-21 14:24:08,013 - INFO - Job completed successfully
+2026-04-21 14:29:48,173 - INFO - Job started
+2026-04-21 14:29:48,173 - INFO - Config loaded: {'seed': 42, 'window': 5, 'version': 'v1', 'signal_type': 'hybrid', 'z_threshold': 0.5}
+2026-04-21 14:29:48,244 - INFO - Rows loaded: 10000
+2026-04-21 14:29:48,251 - INFO - Signals generated
+2026-04-21 14:29:48,251 - INFO - Metrics: {'version': 'v1', 'rows_processed': 9996, 'metric': 'signal_rate', 'value': 0.3796, 'latency_ms': 77, 'seed': 42, 'status': 'success'}
+2026-04-21 14:29:48,251 - INFO - Job completed successfully
+2026-04-21 14:29:56,789 - INFO - Job started
+2026-04-21 14:29:56,789 - INFO - Config loaded: {'seed': 42, 'window': 5, 'version': 'v1', 'signal_type': 'hybrid', 'z_threshold': 0.5}
+2026-04-21 14:29:56,836 - INFO - Rows loaded: 10000
+2026-04-21 14:29:56,836 - INFO - Signals generated
+2026-04-21 14:29:56,852 - INFO - Metrics: {'version': 'v1', 'rows_processed': 9996, 'metric': 'signal_rate', 'value': 0.3796, 'latency_ms': 63, 'seed': 42, 'status': 'success'}
+2026-04-21 14:29:56,853 - INFO - Job completed successfully
+2026-04-21 14:30:14,856 - INFO - Job started
+2026-04-21 14:30:14,856 - INFO - Config loaded: {'seed': 42, 'window': 5, 'version': 'v1', 'signal_type': 'basic', 'z_threshold': 0.5}
+2026-04-21 14:30:14,904 - INFO - Rows loaded: 10000
+2026-04-21 14:30:14,904 - INFO - Signals generated
+2026-04-21 14:30:14,904 - INFO - Metrics: {'version': 'v1', 'rows_processed': 9996, 'metric': 'signal_rate', 'value': 0.4991, 'latency_ms': 47, 'seed': 42, 'status': 'success'}
+2026-04-21 14:30:14,904 - INFO - Job completed successfully

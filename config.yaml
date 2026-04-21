@@ -1,0 +1,6 @@
+seed: 42
+window: 5
+version: "v1"
+
+signal_type: "basic"   # basic (as mentioned)/ zscore(more accurate)/ hybrid (combination of both)
+z_threshold: 0.5
